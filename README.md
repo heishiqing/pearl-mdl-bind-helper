@@ -1,6 +1,6 @@
-# P 池 MDL 钱包绑定签名助手
+# pearlhash 池 MDL 钱包绑定签名助手
 
-这是 Vminer 提供的 PearlFortune / P 池 MDL 钱包绑定签名辅助工具。
+这是 Vminer 提供的 pearlhash 池 MDL 钱包绑定签名辅助工具。
 
 工具用于在本地 Pearl 钱包里生成绑定签名：
 
@@ -8,7 +8,7 @@
 I set <MDL 钱包地址>
 ```
 
-生成签名后，把签名复制到 PearlFortune 页面里的 `Signature` 输入框，即可完成 PRL 钱包和 MDL 钱包的绑定验证。
+生成签名后，把签名复制到 pearlhash 池子绑定页面里的 `Signature` 输入框，即可完成 PRL 钱包和 MDL 钱包的绑定验证。
 
 ## 下载
 
@@ -29,7 +29,7 @@ SHA256: B99E780AA1587CE5193253CACC072539AFE2AB10AFC38DFA489D44DBB3D62D38
 5. 按提示输入 PRL 钱包地址。
 6. 按提示输入 MDL 钱包地址。
 7. 脚本会生成签名，并自动复制到剪贴板。
-8. 回到 PearlFortune 页面，把签名粘贴到 `Signature` 输入框。
+8. 回到 pearlhash 池子绑定页面，把签名粘贴到 `Signature` 输入框。
 
 ## 重要提醒
 
